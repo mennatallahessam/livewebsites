@@ -1,5 +1,0 @@
-services:
-  - type: static
-    name: livewebsites-mennatallahessam
-    env: static
-    publishPath: ./
